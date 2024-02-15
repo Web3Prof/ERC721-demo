@@ -1,0 +1,35 @@
+{
+   "name": "SePots #5",
+   "description": "Testing 10 pots NFT in Sepolia",
+   "external_url": "",
+   "image": "https://bafybeigyv6t2hwojyumdmgb2qfmnukvwh4ex7laipa7kdttfmtrlkwfrdm.ipfs.nftstorage.link/ipfs/bafybeigyv6t2hwojyumdmgb2qfmnukvwh4ex7laipa7kdttfmtrlkwfrdm/sepots-%235.png",
+   "attributes": [
+      {
+         "trait_type": "Background",
+         "value": "sands"
+      },
+      {
+         "trait_type": "Plant",
+         "value": "flower"
+      },
+      {
+         "trait_type": "Pot",
+         "value": "ceramic-pot"
+      },
+      {
+         "trait_type": "Face",
+         "value": "in-love"
+      }
+   ],
+   "properties": {
+      "files": [
+         {
+            "uri": "sepots-#5.png",
+            "type": "image/png"
+         }
+      ],
+      "category": "image",
+      "creators": []
+   },
+   "compiler": "NFTexport.io"
+}
