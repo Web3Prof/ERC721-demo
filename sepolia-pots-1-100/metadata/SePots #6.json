@@ -1,0 +1,35 @@
+{
+  "name": "SePots #6",
+  "description": "Testing 10 pots NFT in Sepolia",
+  "external_url": "",
+  "image": "sepots-#6.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woods"
+    },
+    {
+      "trait_type": "Plant",
+      "value": "sprout"
+    },
+    {
+      "trait_type": "Pot",
+      "value": "cauldron"
+    },
+    {
+      "trait_type": "Face",
+      "value": "crying"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "sepots-#6.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}
